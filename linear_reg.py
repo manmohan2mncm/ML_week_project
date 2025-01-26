@@ -31,7 +31,6 @@ print("\nLinear Regression Results:")
 print("Mean Squared Error:", mean_squared_error(y_test_reg, y_pred_reg))
 print("R-squared:", r2_score(y_test_reg, y_pred_reg))
 
-
 # Visualize Linear Regression results (Predicted vs Actual ratings)
 plt.figure(figsize=(8, 5))
 plt.scatter(y_test_reg, y_pred_reg, alpha=0.7, color='blue')
