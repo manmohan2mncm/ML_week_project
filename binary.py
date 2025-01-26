@@ -1,3 +1,8 @@
+"""
+
+Tells how accurately we can classify cereals as high sugar or low sugar based on nutritional features.
+"""
+
 import pandas as pd
 import numpy as np
 import seaborn as sns

@@ -1,5 +1,5 @@
 """
-he normal distribution simulated here models the normalized rating values, 
+The normal distribution simulated here models the normalized rating values, 
 allowing you to visualize and statistically analyze how ratings behave in the dataset. 
 
 it answers questions like:
